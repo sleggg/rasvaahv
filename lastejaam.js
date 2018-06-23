@@ -7,7 +7,7 @@
 
 shutemup();
 
-// also shutemup new dynamically added content
+// also shut up any new dynamically added content
 new MutationObserver(shutemup).observe(document, {subtree: true, childList: true});
 
 function shutemup() {
