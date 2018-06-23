@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           changeurl test
+// @name           Unregistered Delfi comments 1st
 // @namespace      http://*.delfi.ee/
 // @description    Redirecting URLs to see unregistered comments 
 // @include        http://*.delfi.ee/*
