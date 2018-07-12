@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name           ButtonSoundsOffLastejaam
-// @namespace      http://lastejaam.err.ee/
+// @namespace      https://lastejaam.err.ee/
 // @description    Disables annoying mouse-over sounds on lastejaam.err.ee page
-// @include        http://lastejaam.err.ee/*
+// @include        https://lastejaam.err.ee/*
 // ==/UserScript==
 
 shutemup();
