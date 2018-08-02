@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name           Unregistered Delfi comments 1st
-// @namespace      http://*.delfi.ee/
+// @namespace      delfi.ee
 // @description    Redirecting URLs to see unregistered comments 
 // @include        http://*.delfi.ee/*
+// @include        https://*.delfi.ee/*
 // ==/UserScript==
 
 var links,thisLink;
